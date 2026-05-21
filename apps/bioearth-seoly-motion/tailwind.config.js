@@ -49,8 +49,8 @@ export default {
       },
       animation: {
         float: 'float 5s ease-in-out infinite',
-        marqueeLeft: 'marqueeLeft 24s linear infinite',
-        marqueeRight: 'marqueeRight 28s linear infinite',
+      marqueeLeft: 'marqueeLeft 90s linear infinite',
+      marqueeRight: 'marqueeRight 100s linear infinite',
         pulseDot: 'pulseDot 3s ease-in-out infinite',
       },
     },
