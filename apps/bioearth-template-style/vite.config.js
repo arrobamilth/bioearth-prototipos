@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/bioearth-prototipos/apps/bioearth-seoly-motion/dist/'
+  base: '/bioearth-prototipos/apps/bioearth-template-style/dist/'
 })
